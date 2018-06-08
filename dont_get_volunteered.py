@@ -20,7 +20,7 @@ def fillBoard(board, currentPos, numOfMoves):
                 fillBoard(board, newx * 8 + newy, numOfMoves+1)
 
 #print(answer(19,36)) test case
-#print(answer(0,1)) test cast
+#print(answer(0,1)) test case
 #print(answer(0,9)) test case
 
 """
